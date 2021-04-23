@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i9NuYbfVjtakZGF6v1pE4xRRTgyjM9iFL1ZgGgcj4Vu6Ffs50ZvEUKyx7ZAn1nnr/GZxYS8JaIh/6K94kyThYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CFYZXIII\\Documents\\Ieroglifs\\Ieroglif\\Ieroglif.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CFYZXIII\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CFYZXIII\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\CFYZXIII\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\CFYZXIII\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
